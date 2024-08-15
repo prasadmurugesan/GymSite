@@ -434,14 +434,8 @@ nav ul li a:hover {
     }
 }
 
-/* Styling for the Personal Training Section */
-/* General Styling for the Programs Section */
-/* General Styling for the Programs Section */
-/* General Styling for the Programs Section */
-/* General Styling for the Programs Section */
-/* General Styling for the Programs Section */
-/* General Styling for the Programs Section */
-/* General Styling for the Body */
+
+
 /* General Styling for the Body */
 body {
     margin: 0;
@@ -556,9 +550,7 @@ body {
     }
 }
 /* General Styling for the Contact Form Section */
-/* General Styling for the Contact Form Section */
-/* General Styling for the Contact Form Section */
-/* General Styling for the Contact Form Section */
+
 #contact-form-section {
     padding: 40px 5%; /* Consistent padding on top and bottom, 5% on sides */
     background: linear-gradient(135deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('background-pattern.png'); /* Dark gradient background with pattern */
